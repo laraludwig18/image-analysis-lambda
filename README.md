@@ -1,4 +1,4 @@
-# GoBarber
+# Image Analysis
 
 Função de reconhecimento de imagens que executa no AWS Lambda.
 
